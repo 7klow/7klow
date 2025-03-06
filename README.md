@@ -1,7 +1,7 @@
 # `🚀` Welcome to My GitHub Profile!
 
 ## `🙋‍♂️` About Me
-Hi! I'm passionate about programming and constantly learning new technologies. Here are some of the languages and technologies I've learned or am currently learning:
+Hi! I'm passionate about programming and constantly learning new technologies. Here are some of the languages and technologies I've learned or am currently learning (`📚` What I'm Learning)
 
 ## `💡` My Projects
 Feel free to check out my repositories to see what I've been working on!
