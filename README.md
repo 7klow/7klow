@@ -45,8 +45,6 @@ Here’s what I use on a daily basis:
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=7klow&show_icons=true&theme=radical&count_private=true" alt="7klow GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=7klow&theme=radical&hide_border=false" alt="7klow GitHub Streak"/>
@@ -59,5 +57,5 @@ Here’s what I use on a daily basis:
 ## ⏳ Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7klow&theme=dracula&radius=20&hide_border=true&area=true" alt="7klow Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7klow&theme=dracula&radius=20&area=true&hide_border=true&background=0d1117" alt="7klow Contribution Graph"/>
 </p>
