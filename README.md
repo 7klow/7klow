@@ -48,9 +48,11 @@ Here’s what I use on a daily basis:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=7klow&show_icons=true&theme=radical&count_private=true" alt="7klow GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=7klow&theme=radical&hide_border=false" alt="7klow GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7klow&layout=compact&theme=radical" alt="7klow Top Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7klow&layout=compact&theme=radical" alt="7klow Top Languages"/>
+</p>
 
 ---
 
