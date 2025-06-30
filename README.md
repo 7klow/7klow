@@ -59,10 +59,8 @@ Here’s what I use on a daily basis:
 
 ## ⏳ Commit Activity
 
-<GitHubCalendar
-  username="7klow"
-  theme="sky"
-  cellSize={12}
-  fontSize={14}
-/>
+<p align="center">
+  <img src="https://gitchart.pages.dev/api/username=7klow&theme=purple-cloud" alt="Custom Chill Graph"/>
+</p>
+
 
