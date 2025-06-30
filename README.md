@@ -62,6 +62,3 @@ Here’s what I use on a daily basis:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7klow&theme=tokyo-night&radius=20&hide_border=true&area=true" alt="7klow Contribution Graph"/>
 </p>
-
-
-
