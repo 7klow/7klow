@@ -60,9 +60,5 @@ Here’s what I use on a daily basis:
 ## ⏳ Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7klow&theme=tokyo-night&radius=16&height=300&days=90&grid=false" alt="Contrib Graph"/>
+  <img src="https://activitygraphapi.com/graph?username=7klow&theme=sky&cellSize=14&backgroundColor=FFFFFF" alt="Activity Graph"/>
 </p>
-
-
-
-
