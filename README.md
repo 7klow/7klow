@@ -60,7 +60,7 @@ Here’s what I use on a daily basis:
 ## ⏳ Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7klow&theme=radical&radius=16&area=false&hide_border=true&line=F97AC2&point=FFD700" alt="7klow Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7klow&theme=tokyo-night&radius=16&height=320&grid=false" alt="7klow Contribution Graph"/>
 </p>
 
 
