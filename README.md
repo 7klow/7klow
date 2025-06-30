@@ -17,3 +17,5 @@ Feel free to check out my repositories to see what I've been working on!
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) 
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white) 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=klow&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
