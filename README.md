@@ -59,6 +59,10 @@ Here’s what I use on a daily basis:
 
 ## ⏳ Commit Activity
 
-<p align="center">
-  <img src="https://activitygraphapi.com/graph?username=7klow&theme=sky&cellSize=14&backgroundColor=FFFFFF" alt="Activity Graph"/>
-</p>
+<GitHubCalendar
+  username="7klow"
+  theme="sky"
+  cellSize={12}
+  fontSize={14}
+/>
+
