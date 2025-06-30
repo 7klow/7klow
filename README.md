@@ -8,7 +8,7 @@ Feel free to check out my repositories to see what I've been working on!
 
 ## `📚` What I'm Learning
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
