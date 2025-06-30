@@ -60,5 +60,6 @@ Here’s what I use on a daily basis:
 ## ⏳ Commit Activity
 
 <p align="center">
-  <img src="https://profile-activity-generator.vercel.app/graph?username=7klow&theme=github-dark" alt="7klow Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7klow&theme=github-dark" alt="7klow Contribution Graph"/>
 </p>
+
