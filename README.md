@@ -46,7 +46,7 @@ Here’s what I use on a daily basis:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=7klow&theme=radical&hide_border=false" alt="7klow GitHub Streak"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=7klow&theme=radical&hide_border=false" alt="7klow GitHub Streak"/> -->
   <img src="https://github-readme-stats.vercel.app/api?username=7klow&show_icons=true&theme=radical&count_private=true" alt="7klow GitHub Stats"/>
 </p>
 
